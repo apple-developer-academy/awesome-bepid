@@ -17,3 +17,4 @@ A curated list of awesome content for the Apple Ecosystem created and contribute
 
 ## UIKit
 * [DIOCollectionView](https://github.com/matheusmcardoso/DIOCollectionView) - Drag Items in and out of CollectionViews
+* [MMUIKitExtensions](https://github.com/matheusmcardoso/MMUIKitExtensions) - A compilation of useful UIKit extensions
