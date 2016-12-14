@@ -7,7 +7,7 @@ A curated list of awesome content for the Apple Ecosystem created and contribute
 # Projects
 
 ## Full Projects
-* [PracticeIt](https://github.com/matheusmcardoso/PracticeIt) - [App Store](https://itunes.apple.com/us/app/practiceit/id1118984457?mt=8) - A practice management app written in Objective-C
+* [PracticeIt](https://github.com/matheusmcardoso/PracticeIt) - [![AppStore](https://img.shields.io/badge/App%20Store-published-green.svg)](https://itunes.apple.com/us/app/practiceit/id1118984457?mt=8) - A practice management app written in Objective-C
 * [Dungeons & Cards](https://github.com/hananim-studios/DungeonsAndCards-game) - A medieval TBS card game for iOS + watchOS
 
 
