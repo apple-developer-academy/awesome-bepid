@@ -11,7 +11,7 @@
 Name | Badges | Description
 -----|--------|------------
 [PracticeIt](https://github.com/matheusmcardoso/PracticeIt) | [![AppStore](https://img.shields.io/badge/App%20Store-published-green.svg)](https://itunes.apple.com/us/app/practiceit/id1118984457?mt=8) | A practice management app written in Objective-C
-[Dungeons & Cards](https://github.com/hananim-studios/DungeonsAndCards-game) | | A medieval TBS card game for iOS + watchOS
+[Dungeons & Cards](https://github.com/hananim-studios/DungeonsAndCards-game) | ![watch_supported](https://raw.githubusercontent.com/bepid-ifce/awesome-bepid/master/media/watch_supported.svg) | A medieval TBS card game for iOS + watchOS
 
 
 ## Examples
