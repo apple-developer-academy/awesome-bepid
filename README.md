@@ -1,4 +1,5 @@
 ![LOGO](https://raw.githubusercontent.com/bepid-ifce/awesome-bepid/master/media/banner.png)
+========================================
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![ghit.me](https://ghit.me/badge.svg?repo=bepid-ifce/awesome-bepid)](https://ghit.me/repo/bepid-ifce/awesome-bepid)
 
