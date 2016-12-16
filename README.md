@@ -28,3 +28,25 @@ Name | Badges | Description
 Name | Badges | Description
 -----|--------|------------
 [Lens](https://github.com/lourenco-marinho/Lens) | | Elegant query builder for CoreData
+
+
+# Newsletters
+Name | Description
+-----|------------
+[AwesomeiOS.Weekly](https://github.com/vsouza/awesome-ios#weve-launched-our-newsletter-) | Weekly newsletter that showcases quality iOS libraries, frameworks and other iOS developer tools.
+[Indie iOS Focus Weekly](https://indieiosfocus.curated.co/) | Best iOS dev links, tutorials, & tips beyond the usual news.
+[This Week in Swift](https://swiftnews.curated.co/) | Best Swift resources, including news, blog posts, videos, frameworks, anything Swift.
+[iOS Goodies](http://ios-goodies.com/) | A weekly open-source newsletter divided by articles, tools/controls, business, UI/UX and videos.
+[iOS Dev Weekly](https://iosdevweekly.com/) | iOS development links divided by news, tools, code, design, videos and jobs.
+[Alsedi Mobile Development Digest](http://blog.alsedi.com/mobile-development-digest/) | iOS frameworks and blog posts, design, Android, Game Development.
+[Github Explore](https://github.com/explore/subscribe) | Daily/weekly/monthly trending repositories, as well as repositories starred by people you follow.
+[Realm News](https://realm.io/news/) | iOS dev news, videos & tips.
+
+
+# Videos
+Name | Description
+-----|------------
+[NSScreencast](http://nsscreencast.com/episodes) | Weekly bite-sized screencasts on iOS development.
+[Swift Talk](https://talk.objc.io) | A weekly video series on Swift programming.
+
+# Books
