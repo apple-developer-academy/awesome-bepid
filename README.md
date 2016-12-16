@@ -41,6 +41,7 @@ Name | Description
 [Alsedi Mobile Development Digest](http://blog.alsedi.com/mobile-development-digest/) | iOS frameworks and blog posts, design, Android, Game Development.
 [Github Explore](https://github.com/explore/subscribe) | Daily/weekly/monthly trending repositories, as well as repositories starred by people you follow.
 [Realm News](https://realm.io/news/) | iOS dev news, videos & tips.
+[Swift Weekly Brief](https://swiftweekly.github.io) | A community-driven weekly newsletter about what's happening in the Swift open source projects at Swift.org.
 
 
 # Videos
