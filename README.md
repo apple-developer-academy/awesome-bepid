@@ -29,28 +29,11 @@ Name | Badges | Description
 -----|--------|------------
 [Lens](https://github.com/lourenco-marinho/Lens) | | Elegant query builder for CoreData
 
+# Articles
+Title | Description
+------|------------
+[Protocol-Oriented Programming](http://equinocios.com/ios/2016/03/16/protocol-oriented-programming/) | O objetivo desse artigo é mostrar como podemos usar <br> Protocol Oriented Programming para melhorarmos as aplicações, <br> criando bibliotecas mais reutilizáveis e genéricas.
 
-# Newsletters
-Name | Description
------|------------
-[AwesomeiOS.Weekly](https://github.com/vsouza/awesome-ios#weve-launched-our-newsletter-) | Weekly newsletter that showcases quality iOS libraries, frameworks and other iOS developer tools.
-[Indie iOS Focus Weekly](https://indieiosfocus.curated.co/) | Best iOS dev links, tutorials, & tips beyond the usual news.
-[This Week in Swift](https://swiftnews.curated.co/) | Best Swift resources, including news, blog posts, videos, frameworks, anything Swift.
-[iOS Goodies](http://ios-goodies.com/) | A weekly open-source newsletter divided by articles, tools/controls, business, UI/UX and videos.
-[iOS Dev Weekly](https://iosdevweekly.com/) | iOS development links divided by news, tools, code, design, videos and jobs.
-[Alsedi Mobile Development Digest](http://blog.alsedi.com/mobile-development-digest/) | iOS frameworks and blog posts, design, Android, Game Development.
-[Github Explore](https://github.com/explore/subscribe) | Daily/weekly/monthly trending repositories, as well as repositories starred by people you follow.
-[Realm News](https://realm.io/news/) | iOS dev news, videos & tips.
-[Swift Weekly Brief](https://swiftweekly.github.io) | A community-driven weekly newsletter about what's happening in the Swift open source projects at Swift.org.
-
-
-# Videos
-Name | Description
------|------------
-[💰 NSScreencast](http://nsscreencast.com/episodes) | Weekly bite-sized screencasts on iOS development.
-[💰 Swift Talk](https://talk.objc.io) | A weekly video series on Swift programming.
-
-# Books
-Name | Description
------|------------
-[💰 Objc.io Books](https://www.objc.io/books/) | In-depth guides on iOS and OS X development, in ebook and paperback.
+# External Resources
+> We have also compiled a list of useful external resources in [EXTERNAL.md](https://github.com/bepid-ifce/awesome-bepid/blob/master/EXTERNAL.md)
+> for content that is not made by BEPiD students
