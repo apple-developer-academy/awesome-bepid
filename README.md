@@ -46,7 +46,10 @@ Name | Description
 # Videos
 Name | Description
 -----|------------
-[NSScreencast](http://nsscreencast.com/episodes) | Weekly bite-sized screencasts on iOS development.
-[Swift Talk](https://talk.objc.io) | A weekly video series on Swift programming.
+[💰 NSScreencast](http://nsscreencast.com/episodes) | Weekly bite-sized screencasts on iOS development.
+[💰 Swift Talk](https://talk.objc.io) | A weekly video series on Swift programming.
 
 # Books
+Name | Description
+-----|------------
+[💰 Objc.io Books](https://www.objc.io/books/) | In-depth guides on iOS and OS X development, in ebook and paperback.
