@@ -5,6 +5,13 @@
 
 > A list of useful external resources (not made by the BEPiD community)
 
+# Projects
+## Examples
+Name | Badges | Description
+-----|--------|------------
+[todolist-mvvm](https://github.com/jalehman/todolist-mvvm) | | An example App and tutorial for the MVVM pattern
+
+
 # Newsletters
 Name | Description
 -----|------------
