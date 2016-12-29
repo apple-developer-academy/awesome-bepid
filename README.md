@@ -28,6 +28,10 @@ Name | Badges | Description
 Name | Badges | Description
 -----|--------|------------
 [Lens](https://github.com/lourenco-marinho/Lens) | | Elegant query builder for CoreData
+## Others
+Name | Badges | Description
+-----|--------|------------
+[RuAWSS3](https://github.com/brunomacabeusbr/RuAWSS3) | [![Version](https://img.shields.io/cocoapods/v/RuAWSS3.svg?style=flat)](http://cocoapods.org/pods/RuAWSS3) | Ridiculously Uncomplicated AWS S3
 
 # Articles
 Title | Description
