@@ -21,7 +21,7 @@ Name | Badges | Description
 ## UIKit
 Name | Badges | Description
 -----|--------|------------
-[DIOCollectionView](https://github.com/matheusmcardoso/DIOCollectionView) | | Drag Items in and out of CollectionViews
+[DIOCollectionView](https://github.com/matheusmcardoso/DIOCollectionView) | [![pod_badge](https://img.shields.io/cocoapods/v/DIOCollectionView.svg?style=flat)](http://cocoapods.org/pods/DIOCollectionView) | Drag Items in and out of CollectionViews
 [MMUIKitExtensions](https://github.com/matheusmcardoso/MMUIKitExtensions) | | A compilation of useful UIKit extensions
 [ActionButton](https://github.com/lourenco-marinho/ActionButton) | ![pod_badge](https://img.shields.io/cocoapods/v/ActionButton.svg) | Floating Action Button inspired by Google Inbox
 ## CoreData
