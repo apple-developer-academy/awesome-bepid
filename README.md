@@ -11,6 +11,9 @@ Name | Badges | Description
 -----|--------|------------
 [PracticeIt](https://github.com/matheusmcardoso/PracticeIt) | [![AppStore](https://img.shields.io/badge/App%20Store-published-green.svg)](https://itunes.apple.com/us/app/practiceit/id1118984457?mt=8) | A practice management app written in Objective-C
 [Dungeons & Cards](https://github.com/hananim-studios/DungeonsAndCards-game) | ![watch_supported](https://raw.githubusercontent.com/bepid-ifce/awesome-bepid/master/media/watch_supported.svg) | A medieval TBS card game for iOS + watchOS
+[Pong Bash](https://github.com/4challenge-studios/pongbash-game) | [![AppStore](https://img.shields.io/badge/App%20Store-published-green.svg)](https://itunes.apple.com/us/app/id1214024996?mt=8) | A multiplayer mega evolution of Pong for the Apple TV
+[Pong Bash Controller](https://github.com/4challenge-studios/pongbash-game) | [![AppStore](https://img.shields.io/badge/App%20Store-published-green.svg)](https://itunes.apple.com/app/id1214007180?mt=8) | The controller for the Pong Bash game using Multipeer Connectivity
+
 ## Examples
 Name | Badges | Description
 -----|--------|------------
@@ -21,7 +24,7 @@ Name | Badges | Description
 ## UIKit
 Name | Badges | Description
 -----|--------|------------
-[DIOCollectionView](https://github.com/matheusmcardoso/DIOCollectionView) | | Drag Items in and out of CollectionViews
+[DIOCollectionView](https://github.com/matheusmcardoso/DIOCollectionView) | [![pod_badge](https://img.shields.io/cocoapods/v/DIOCollectionView.svg?style=flat)](http://cocoapods.org/pods/DIOCollectionView) | Drag Items in and out of CollectionViews
 [MMUIKitExtensions](https://github.com/matheusmcardoso/MMUIKitExtensions) | | A compilation of useful UIKit extensions
 [ActionButton](https://github.com/lourenco-marinho/ActionButton) | ![pod_badge](https://img.shields.io/cocoapods/v/ActionButton.svg) | Floating Action Button inspired by Google Inbox
 ## CoreData
