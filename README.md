@@ -28,6 +28,7 @@ Name | Badges | Description
 [MMUIKitExtensions](https://github.com/matheusmcardoso/MMUIKitExtensions) | | A compilation of useful UIKit extensions
 [ActionButton](https://github.com/lourenco-marinho/ActionButton) | ![pod_badge](https://img.shields.io/cocoapods/v/ActionButton.svg) | Floating Action Button inspired by Google Inbox
 [TvLightSegments](https://github.com/brunomacabeusbr/TvLightSegments) | ![pod_badge](https://img.shields.io/cocoapods/v/TvLightSegments.svg) | Clean, simple and beautiful segment bar for your AppleTv app
+[GridView](https://github.com/brunomacabeusbr/GridView) | ![pod_badge](https://img.shields.io/cocoapods/v/GridView.svg) | Amazing grid view in your tvOS/iOS app
 ## CoreData
 Name | Badges | Description
 -----|--------|------------
