@@ -30,6 +30,8 @@ Name | Badges | Description
 [TvLightSegments](https://github.com/brunomacabeusbr/TvLightSegments) | ![pod_badge](https://img.shields.io/cocoapods/v/TvLightSegments.svg) | Clean, simple and beautiful segment bar for your AppleTv app
 [GridView](https://github.com/brunomacabeusbr/GridView) | ![pod_badge](https://img.shields.io/cocoapods/v/GridView.svg) | Amazing grid view in your tvOS/iOS app
 [FocusGuideHelper](https://github.com/brunomacabeusbr/FocusGuideHelper) | ![pod_badge](https://img.shields.io/cocoapods/v/FocusGuideHelper.svg) | Create focus guides linker more easily and versatile
+[TextFieldCounter](https://github.com/serralvo/TextFieldCounter) | ![pod_badge](https://img.shields.io/cocoapods/v/TextFieldCounter.svg) | UITextField character counter with lovable UX 💖. No math skills required 🙃.
+
 ## CoreData
 Name | Badges | Description
 -----|--------|------------
